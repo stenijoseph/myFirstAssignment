@@ -48,10 +48,10 @@
    ## 2.Attributes are added to the opening tag and are written as name/value pairs.
    ## 3.Attributes provide extra details or properties for an element.
    ## Global Attributes:
-  ## *Global attributes are attributes that can be used on any HTML element, regardless of its type. Some common global attributes include:  
-   ## 1.class:
-  ##  2.id:
-  ##  3.style:
-  ## 4.title:
-   ## 5.lang:
+  ## Global attributes are attributes that can be used on any HTML element, regardless of its type. Some common global attributes include:  
+   ## 1.class
+  ##  2.id
+  ##  3.style
+  ## 4.title
+   ## 5.lang
    
